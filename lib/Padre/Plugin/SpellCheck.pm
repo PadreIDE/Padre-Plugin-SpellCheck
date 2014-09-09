@@ -413,7 +413,7 @@ L<http://padre.perlide.org/trac/wiki/PadrePluginSpellCheck>
 
 =item * Our svn repository
 
-L<http://svn.perlide.org/padre/trunk/Padre-Plugin-SpellCheck>,
+L<https://github.com/PadreIDE/Padre-Plugin-SpellCheck>,
 and can be browsed at L<http://padre.perlide.org/browser/trunk/Padre-Plugin-SpellCheck>.
 
 =back

@@ -29,6 +29,6 @@ no_index directory qw{ inc share t xt }
 
 homepage    http://padre.perlide.org/trac/wiki/PadrePluginSpellCheck
 bugtracker  http://padre.perlide.org/trac
-repository  http://svn.perlide.org/padre/trunk/Padre-Plugin-SpellCheck/
+repository  https://github.com/PadreIDE/Padre-Plugin-SpellCheck/
 
 install_share
